@@ -7,7 +7,8 @@ Brity RPA를 활용하여 매달 반복되는 판매 실적 보고서 생성을 
 - **파일:** [상세 설계서](./미니프로젝트2.pdf), [데이터 샘플](./현대%202025년%2001월%20판매실적.xlsx)
 
 ## 2. 프로세스 흐름도
-![RPA 워크플로우](process_flow.png)
+<img width="1234" height="460" alt="process_flow" src="https://github.com/user-attachments/assets/a0378b1e-2c0b-4e1c-b9ba-49f9fee277c3" />
+
 
 ## 3. 주요 성과
 - 단순 반복 데이터 입력 시간 **90% 단축**
